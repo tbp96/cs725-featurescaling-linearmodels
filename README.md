@@ -1,4 +1,4 @@
-# 📘 Influence of Feature Scaling on Convergence in Linear Models  
+# Influence of Feature Scaling on Convergence in Linear Models  
 **Course:** CS725 — Foundations of Machine Learning  
 **Team Members:** Harsh Khurana, Pansuriya Tarang Bharatbhai, Aatmaj Mhatre  
 
@@ -48,7 +48,7 @@ You can do this by using the upload dialogue in Colab/Jupyter or placing the fil
 
 ---
 
-## 🧪 Models Used
+## Models Used
 - Linear Regression  
 - Ridge Regression  
 - Lasso Regression  
@@ -59,7 +59,7 @@ You can do this by using the upload dialogue in Colab/Jupyter or placing the fil
 
 ---
 
-## 📊 Scaling Techniques Evaluated
+## Scaling Techniques Evaluated
 - Standardization (Z-score)  
 - Min–Max Scaling  
 - MaxAbs Scaling  
@@ -70,7 +70,7 @@ You can do this by using the upload dialogue in Colab/Jupyter or placing the fil
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 To determine **how different feature-scaling techniques affect**:
 - Convergence speed  
 - Training stability  
@@ -79,7 +79,7 @@ To determine **how different feature-scaling techniques affect**:
 
 ---
 
-## ✔️ Reproducibility
+## Reproducibility
 We use:
 - **Google Colab environment**
 - **Python 3**
@@ -88,6 +88,6 @@ We use:
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 We thank **Prof. Abir De** for guidance and IIT Bombay for enabling this coursework.
 
