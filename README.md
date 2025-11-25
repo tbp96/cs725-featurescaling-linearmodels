@@ -16,11 +16,9 @@ The main experimentation workflow, model implementation, scaler comparison, and 
 
 ## 📂 Repository Structure
 .
-├── FML_project.ipynb          # Main project notebook containing full experiments
-├── datasets/
-│   ├── Rice_Cammeo_Osmancik.csv   # Required dataset (must be uploaded to Colab)
-│   
-├── README.md                  # Project documentation
+├── FML_project.ipynb         
+├── Rice_Cammeo_Osmancik.csv     
+├── README.md                
 
 ---
 
